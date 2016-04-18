@@ -1,3 +1,5 @@
+> The project is not maintained anymore.
+
 # Visit [Lokad.CQRS Homepage](http://lokad.github.com/lokad-cqrs/)
 
 **Lokad.CQRS** is a sample project from Lokad to share experience with Command and Query Responsibility Segregation/Domain-Driven Design  **(CQRS/DDD)** and Event Sourcing **(ES)**.
